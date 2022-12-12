@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Acer Foco", "Trebuchet MS", Arial, sans-serif;
+    overflow-x: hidden;
 }
 .container{
     height: 8vh;
@@ -405,6 +406,7 @@
     color: rgb(255, 254, 254);
     padding: 3px 0;
     position: relative;
+    overflow: hidden;
 }
 .footerlinks li p{
     font-size: small;
